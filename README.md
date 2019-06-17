@@ -1,8 +1,11 @@
-# Innovation_challenge_TEAM10
-Team 10 for RBC's Innovation Challenge [AKA WINNING TEAM]
+# Team Ten
+Team 10 for RBC's Innovation Challenge <> This page is a hub for the project, and will host project code.
+
 TOPIC <> SLACK BOT
 
-## Team
+
+
+## [ALL-STAR-LINEUP]
 #### Kaitlin English
 #### Zachary Norman -> Developer
 #### George Xu -> Developer
