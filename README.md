@@ -5,7 +5,7 @@ TOPIC <> SLACK BOT
 
 
 
-## [ALL-STAR-LINEUP]
+### [ALL-STAR-LINEUP]
 #### Kaitlin English ->
 #### Zachary Norman -> Developer
 #### George Xu -> Developer
