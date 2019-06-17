@@ -6,8 +6,8 @@ TOPIC <> SLACK BOT
 
 
 ## [ALL-STAR-LINEUP]
-#### Kaitlin English
+#### Kaitlin English ->
 #### Zachary Norman -> Developer
 #### George Xu -> Developer
-#### Kristina Nievera
-#### Fraser Stevenson
+#### Kristina Nievera ->
+#### Fraser Stevenson ->
